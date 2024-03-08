@@ -1,4 +1,4 @@
-This repository contains several Unreal projects I created while learning Unreal.
+This repository is for Unreal projects I created while learning Unreal.
 
 [BlockGame](https://github.com/pthompson-dev/UnrealProjects/tree/main/BlockGame) - A Minecraft clone with a first person shooter twist.  100% Blueprints, 0% code.
 
